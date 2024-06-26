@@ -1,0 +1,29 @@
+html {
+    background-color: black;
+    font-size: 16px;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+h1, h2, span, a {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: white;
+}
+
+h1 {
+    font-size: 3.125rem;
+    font-weight: 400;
+}
+
+a {
+    color: #7fffd4;
+    font-size: 1rem;
+    text-decoration: underline;
+    text-align: inherit;
+}
