@@ -27,3 +27,19 @@ a {
     text-decoration: underline;
     text-align: inherit;
 }
+
+h2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+span {
+    font-size: 1.3125rem;
+    color: #808080
+}
+
+#description .image-container {
+    margin: 3%;
+    overflow: hidden;
+    max-width: 1700px;
+}
