@@ -43,3 +43,12 @@ span {
     overflow: hidden;
     max-width: 1700px;
 }
+
+#foot {
+    width: 100%;
+}
+
+.copyright {
+    display: block;
+    text-align: right;
+}
